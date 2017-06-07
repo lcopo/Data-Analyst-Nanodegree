@@ -1,1 +1,2 @@
-# Intro-to-Data-Science
+# data-analyst
+Content for Udacity's Data Analyst curriculum
